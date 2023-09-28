@@ -1,5 +1,5 @@
 # Mateus W
 Turma 1B
-#Sou estudante do 1ª
+#Sou estudante da 1ª serie B
 
 # Colegio Civico Militar Afonso Camargo
